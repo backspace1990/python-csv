@@ -27,4 +27,3 @@ for i in first:
                 res_final.append(f"Больше {i} - {t}")
             else:
                 res_final.append(f"Меньше  {i} - {t}")
-
